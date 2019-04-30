@@ -1,0 +1,21 @@
+.easy-autocomplete,#ajax_posts_text{
+	width:100% !important;
+}
+
+.easy-autocomplete-container ul{
+	background: #d3d3d3;
+	border-radius: 8px;
+	overflow: scroll;
+	max-height: 350px;
+	overflow-x: hidden;
+}
+
+.easy-autocomplete-container ul li{
+	padding: 10px;
+}
+
+
+#ajax_posts_text{
+	border:1px solid gray !important;
+	outline-width: 0;
+}
